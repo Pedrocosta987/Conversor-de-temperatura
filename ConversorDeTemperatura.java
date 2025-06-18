@@ -23,7 +23,7 @@ public class ConversorDeTemperatura {
                     resultado = (temperatura - 32) * 5 / 9;
                     System.out.printf("%.2fºF equivalem a %.2fºC%n", temperatura, resultado);
                     break;
-                case 2: // Celsius para Fahrenheit
+                case 2: 
                     resultado = (temperatura * 9 / 5) + 32;
                     System.out.printf("%.2fºC equivalem a %.2fºF%n", temperatura, resultado);
                     break;
