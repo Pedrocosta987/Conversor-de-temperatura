@@ -1,2 +1,17 @@
-# Conversor-de-temperatura
-Um conversor de temperatura em Java que converte o valor inserido pelo usuário de Farenheit para Celsius e de Celsius para Farenheit
+Conversor de Temperatura – Java
+
+Um conversor de temperaturas simples desenvolvido em Java, permitindo conversão entre Fahrenheit e Celsius.
+
+---
+
+Funcionalidades
+- Conversão de Fahrenheit → Celsius
+- Conversão de Celsius → Fahrenheit
+- Menu simples (opção 1 ou 2)
+
+---
+
+Tecnologias utilizadas
+- Java
+- Scanner
+
