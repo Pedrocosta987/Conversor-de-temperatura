@@ -1,4 +1,4 @@
-#Conversor de Temperatura – Java
+#Conversor de Temperatura – Java#
 
 Um conversor de temperaturas simples desenvolvido em Java, permitindo conversão entre Fahrenheit e Celsius.
 
